@@ -23,6 +23,6 @@
   "homepage": "https://github.com/ledinhthai22/Nodejs_f8#readme",
   "description": "",
   "dependencies": {
-    "express": "^4.21.2"
+    "express": "^4.21.2" 
   }
 }
